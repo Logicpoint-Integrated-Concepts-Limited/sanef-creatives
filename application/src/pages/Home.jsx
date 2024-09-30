@@ -271,7 +271,7 @@ const Home = () => {
             </div>
             <img
               src={
-                ""
+                "https://res.cloudinary.com/dgvqjuxpg/image/upload/v1727160935/Updated%20Website%20Assets/About%20Us%20-%20National%20theatre%20Photo/About_Us_Page_-_National_Theatre_gcyc4s.jpg"
               }
               alt="Project Image"
               className="w-1/2 wFull"
