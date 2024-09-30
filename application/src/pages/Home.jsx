@@ -182,7 +182,7 @@ const Home = () => {
                 <div className="flex gap-5 mb-5">
                   <img
                     src={
-                      "https://asset.cloudinary.com/dgvqjuxpg/fc75ca54e1a8e65ace1c171265cfb830"
+                      "https://res.cloudinary.com/dgvqjuxpg/image/upload/v1716331381/Website%20Assets/kmjqyfyr8op9iecxc1dw.png"
                     }
                     alt="Art image"
                   />
