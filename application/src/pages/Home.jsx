@@ -184,7 +184,7 @@ const Home = () => {
                     src={
                       "https://res.cloudinary.com/dgvqjuxpg/image/upload/v1716331381/Website%20Assets/kmjqyfyr8op9iecxc1dw.png"
                     }
-                    alt="Art image"
+                    alt="Art imag"
                   />
                   {/* <div className="flex items-center">
                     <h1 className="text-xl text-primary font-black">400</h1>
