@@ -452,14 +452,14 @@ SANEF Creatives Limited
         `,
     profile: `Ms. Semirah Okwilague`,
   },
-  {
-    image: `http://res.cloudinary.com/dgvqjuxpg/image/upload/v1722614075/Website%20Assets/Team/new/by7fd3miwhv9ho1fwr1d.png`,
-    profile: "Mr. Adeolu Adeosun",
-    title: "CHIEF FINANCIAL OFFICER",
-    description: `
-      SANEF Creatives Limited
-      `,
-  },
+  /* {
+     image: `http://res.cloudinary.com/dgvqjuxpg/image/upload/v1722614075/Website%20Assets/Team/new/by7fd3miwhv9ho1fwr1d.png`,
+     profile: "Mr. Adeolu Adeosun",
+     title: "CHIEF FINANCIAL OFFICER",
+     description: `
+       SANEF Creatives Limited
+       `,
+   },*/
   {
     image: `http://res.cloudinary.com/dgvqjuxpg/image/upload/v1722614078/Website%20Assets/Team/new/fk7wlnvnvjd5w1vpdk6g.png`,
     profile: "Mr. Ihechukwu Ibeji",
